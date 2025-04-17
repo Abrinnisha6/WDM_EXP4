@@ -1,4 +1,4 @@
-### EX4 Implementation of Cluster and Visitor Segmentation for Navigation patterns
+### EX4 - Implementation of Cluster and Visitor Segmentation for Navigation patterns
 
 ### DATE: 17/04/2025
 
